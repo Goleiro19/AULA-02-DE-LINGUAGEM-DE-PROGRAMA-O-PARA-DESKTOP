@@ -1,0 +1,14 @@
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\bin\Debug\net8.0\CONDICIONAIS  - AULA 02.exe
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\bin\Debug\net8.0\CONDICIONAIS  - AULA 02.deps.json
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\bin\Debug\net8.0\CONDICIONAIS  - AULA 02.runtimeconfig.json
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\bin\Debug\net8.0\CONDICIONAIS  - AULA 02.dll
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\bin\Debug\net8.0\CONDICIONAIS  - AULA 02.pdb
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.AssemblyInfoInputs.cache
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.AssemblyInfo.cs
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.csproj.CoreCompileInputs.cache
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.dll
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\refint\CONDICIONAIS  - AULA 02.dll
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.pdb
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\CONDICIONAIS  - AULA 02.genruntimeconfig.cache
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 02\CONDICIONAIS  - AULA 02\CONDICIONAIS  - AULA 02\obj\Debug\net8.0\ref\CONDICIONAIS  - AULA 02.dll
